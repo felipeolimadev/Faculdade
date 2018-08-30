@@ -1,0 +1,5 @@
+Desenvolver um programa em c que calcule o imc de uma pessoa
+
+Peso
+Altura
+Sexo
